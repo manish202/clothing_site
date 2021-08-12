@@ -356,6 +356,7 @@ footer{
     width: 250px;
     border: 2px solid #ff3b94;
     border-radius: 10px;
+    margin: 10px 0px;
 }
 .single-link h1,.copyright span{
     text-transform: capitalize;
